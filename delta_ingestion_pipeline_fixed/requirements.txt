@@ -1,0 +1,7 @@
+pyspark
+delta-spark
+faker
+pandas
+apscheduler
+pytz
+yagmail
